@@ -1806,3 +1806,10 @@ section {
     padding: 2px 0;
   }
 }
+
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh; /* Adjust height as needed */
+}
